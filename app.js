@@ -1,4 +1,4 @@
-var a;
+
 console.log(a);
 
 if (a === undefined) {
